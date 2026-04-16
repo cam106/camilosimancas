@@ -13,6 +13,4 @@ Senior Analyst focused on **analytics, pricing, and data-driven decision making*
 ---
 
 ### 🔗 Connect with me
-- LinkedIn: https://linkedin.com/in/your-link
-- Email: your@email.com
-
+- LinkedIn :https://www.linkedin.com/in/camilo-simancas
