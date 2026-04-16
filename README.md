@@ -1,3 +1,4 @@
+README.md
 # Hi I'm Camilo Simancas
 
 Senior Analyst focused on **analytics, pricing, and data-driven decision making**
